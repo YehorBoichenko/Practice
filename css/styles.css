@@ -1,0 +1,21 @@
+.link{
+    text-decoration: none;
+    color: currentColor;
+}
+
+.uppertitle{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.uppertitle-theme-light{
+    color: #303030;
+}
+.uppertitle-theme-dark{
+    color: rgba(157, 164, 189, 0.6);
+}
